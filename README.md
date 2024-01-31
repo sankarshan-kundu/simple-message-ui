@@ -1,2 +1,2 @@
 # simple-message-ui
-A test frontend project with Angular 
+A test frontend project with React 
